@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import MDatatable from './components/MDatatable/MDatatable.vue';
+// import MDatatable from './components/MDatatable/MDatatable.vue';
+import MDatatable from '@/components/MDatatable/MDatatable.vue';
 </script>
 
 <template>
